@@ -1,12 +1,12 @@
 # Vehicle Cut In Detection
 
-This project utilizes the YOLO (You Only Look Once) object detection model and SORT (Simple Online and Realtime Tracking) to detect and track vehicles in a video stream. It calculates the speed of detected vehicles and estimates the time to collision with the vehicle containing the camera, which is assumed to be moving at a constant speed.
+This project utilizes the YOLO (You Only Look Once) object detection model and SORT (Simple Online and Realtime Tracking) to detect and track vehicles in a video stream. It calculates the speed of detected vehicles and estimates the time to collision with the vehicle containing the camera.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [DataSetUsed](#Dataset)
-- [Models And Video Link](#links)
+- [Models And Video Link](#ModelsAndVideoLink)
 - [Features](#features)
 - [Customization](#customization)
 - [Dependencies](#dependencies)
@@ -25,7 +25,7 @@ This project aims to:
 - IDD temporal dataset used for indian road
 
 
-## Models And Video Link
+## ModelsAndVideoLink
 
 - https://drive.google.com/drive/folders/14_9QmOtJKXwsCpRpDVUAHp2Bgz_NSzP0?usp=sharing
 
