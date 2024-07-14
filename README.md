@@ -7,7 +7,7 @@ This project utilizes the YOLO (You Only Look Once) object detection model and S
 - [Overview](#overview)
 - [Code Explanation Video Link](#VideoLink)
 - [DataSetUsed](#Dataset)
-- [Models And Video Link](#ModelsAndVideoLink)
+- [Models And Video Link](#ModelsAndTestVideoLink)
 - [Features](#features)
 - [Customization](#customization)
 - [Dependencies](#dependencies)
@@ -32,7 +32,7 @@ This project aims to:
 - IDD temporal dataset used for indian road
 
 
-## ModelsAndVideoLink
+## ModelsAndTestVideoLink
 
 - https://drive.google.com/drive/folders/14_9QmOtJKXwsCpRpDVUAHp2Bgz_NSzP0?usp=sharing
 
