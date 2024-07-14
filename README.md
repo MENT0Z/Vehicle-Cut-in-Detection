@@ -6,6 +6,7 @@ This project utilizes the YOLO (You Only Look Once) object detection model and S
 
 - [Overview](#overview)
 - [Code Explanation Video Link](#VideoLink)
+- [PPT And Documentation Link](#Documentation)
 - [DataSetUsed](#Dataset)
 - [Models And Video Link](#ModelsAndTestVideoLink)
 - [Features](#features)
@@ -26,6 +27,11 @@ This project aims to:
 
 -  https://drive.google.com/file/d/1hsKE7QM_RN9RVO8ZoNgjFyknU_gnYe52/view?usp=sharing
 
+
+##Documentation
+
+- https://drive.google.com/drive/folders/1jALwAqojlCw14Y_GQ0i7lpgSrmFEdb9M?usp=sharing
+  
 
 ## Dataset
 
